@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib
-scikit-learn
-pip install -r requirements.txt
-seaborn
-streamlit run app.py
