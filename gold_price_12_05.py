@@ -16,7 +16,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn import metrics
 
 # loading the csv data to a Pandas DataFrame
-gold_data = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/gld_price_data.csv')
+gold_data = pd.read_csv('gld_price_data.csv')
 
 # print first 5 rows in the dataframe
 gold_data.head()
